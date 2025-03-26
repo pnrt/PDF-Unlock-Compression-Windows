@@ -1,5 +1,6 @@
 # PDF Unlocker and Compressor Windows App - Installation & Usage Guide
-
+![PDF Unlocker Preview](image1.png)
+![PDF Compressor Preview](image2.png)
 ## Prerequisites
 To run this application on Windows, ensure you have the following installed:
 

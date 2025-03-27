@@ -26,6 +26,10 @@ This will start the application.
   - Ensure `java` is properly installed and available in the system PATH.
   - Run `runApp.bat` inside a command prompt to check for any error messages.
 
+---
+## Note*
+- You can use `.jar` file in other OS's.
+---
 ## Support
 For any issues, feel free to contact support or check the documentation for the respective dependencies.
 

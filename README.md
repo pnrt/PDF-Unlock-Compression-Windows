@@ -30,6 +30,7 @@ If the application does not start, check the following:
 
 ### 🔹 Additional Notes
 - The `.jar` file can be used on **other operating systems** as well.
+- **100% Free & Offline** – No external API used, ensuring full privacy and security. 🔒
 
 ### 📞 Support
 For any issues, feel free to contact **me** or refer to the documentation for the respective dependencies.
